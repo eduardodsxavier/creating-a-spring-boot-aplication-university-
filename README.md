@@ -1,4 +1,4 @@
-# creating-a-spring-boot-application-university-
+# creating-a-spring-boot-application-university
 a university work 
 start a web application with spring boot 
 
